@@ -54,13 +54,16 @@
 
 ## 📊 GitHub Stats
 
-![Aashray's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aashray29&show_icons=true&theme=tokyonight)
+
+![Aashray's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aashray29&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
 
 ---
+## top langs
 
-## 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashray29&layout=compact&theme=tokyonight&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashray29&layout=compact&theme=tokyonight)
+
 
 ---
 
