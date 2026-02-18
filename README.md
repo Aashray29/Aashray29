@@ -52,18 +52,15 @@
 
 ---
 
-## 📊 GitHub Stats
-
-
-![Aashray's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aashray29&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-
----
-## top langs
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashray29&layout=compact&theme=tokyonight&cache_seconds=1800)
-
-
+<!-- SOCIAL BUTTONS -->
+<p align="center">
+  <a href="https://github.com/Aashray29">
+    <img src="https://img.shields.io/github/followers/Aashray29?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/aashray-ranpara-bb395b378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
