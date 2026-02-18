@@ -47,8 +47,8 @@
 
 ## 🏆 Competitive Programming Profiles
 
-- 🔗 CodeChef: https://www.codechef.com/users/YOUR_CODECHEF_USERNAME  
-- 🔗 Codeforces: https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME  
+- 🔗 CodeChef: https://www.codechef.com/users/aashray29 
+- 🔗 Codeforces: https://codeforces.com/profile/Aashray_ranpara 
 
 ---
 
